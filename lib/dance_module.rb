@@ -1,5 +1,5 @@
 module Dance
-  def twirling
+  def twirl
     "I'm twirling!"
   end
 
