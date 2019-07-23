@@ -1,3 +1,4 @@
+```ruby
 module MetaDancing
 
   def metadata
