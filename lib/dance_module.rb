@@ -25,4 +25,3 @@ module ClassMethods
     "This class produces objects tha t love to dance."
   end
  end
-end
